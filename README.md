@@ -11,15 +11,7 @@ This project demonstrates how to:
 
 ## 🚀 Getting Started
 
-### 1. Add the Podspec Repo
-
-First, make sure the podspec is available via a public or private spec repo. You can add the repo with:
-
-```bash
-pod repo add ExampleSDKSpecs https://github.com/your-org/ExampleSDKSpecs.git
-```
-
-### 2. Install via CocoaPods
+### Install via CocoaPods
 
 In your app’s `Podfile`, add:
 
