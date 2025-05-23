@@ -16,7 +16,7 @@ This project demonstrates how to:
 1. In Xcode, go to **File > Add Packages...**
 2. Enter the URL of this repository:  
    ```
-   https://github.com/your-org/ExampleSDKRelease.git
+   https://github.com/sp-satyaharsh/ExampleSDKRelease.git
    ```
 3. Choose the version and add the package to your project.
 
